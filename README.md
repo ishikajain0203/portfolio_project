@@ -32,7 +32,7 @@ This is my full-stack portfolio project showcasing my skills in frontend and bac
 portfolio_project/
 │
 ├── frontend/      # Frontend code
-├── backend/       # Backend code (if any)
+├── backend/       # Backend code
 ├── README.md
 └── .gitignore
 ```
@@ -70,7 +70,7 @@ npm start
 
 ## 🌐 Live Demo
 
-(Add your deployed link here if available)
+portfolio-project-nu-five.vercel.app
 
 ---
 
